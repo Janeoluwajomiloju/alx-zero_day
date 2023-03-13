@@ -1,1 +1,1 @@
-not empty readme
+Xero day in ALX as a software engineer
